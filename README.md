@@ -4,6 +4,8 @@
 
 Este projeto utiliza aprendizado de máquina para prever a probabilidade de ataques cardíacos com base em diversos fatores de saúde. O modelo foi treinado usando um notebook Jupyter e implementado em uma aplicação Streamlit, que está hospedada na AWS.
 
+Atualmente a aplicação esta disponivel na url https://indicadorescardiacos.tech/
+
 ## Treinamento do Modelo
 
 O modelo foi treinado usando um notebook Jupyter que realiza as seguintes etapas:
