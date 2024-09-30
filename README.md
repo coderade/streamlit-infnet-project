@@ -13,7 +13,8 @@ O modelo foi treinado usando um notebook Jupyter que realiza as seguintes etapas
 3. Treinamento de um modelo Random Forest
 4. Avaliação do modelo usando métricas como acurácia e recall
 5. Análise das features mais importantes
-6. Salvamento do modelo treinado
+6. Salvamento do modelo treinado em formato bin
+7. Deploy do modelo para inferencia no Sagemaker
 
 ## Aplicação Streamlit
 
